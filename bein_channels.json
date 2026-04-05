@@ -1,5 +1,5 @@
 [
-  { "id": "101", "category_id": "1", "name": "beIN 1", "img": "لوجو_القناة" },
-  { "id": "102", "category_id": "1", "name": "beIN 2", "img": "لوجو_القناة" },
-  { "id": "201", "category_id": "2", "name": "OSN Movies", "img": "لوجو_القناة" }
+  { "id": "101", "category_id": "1", "name": "beIN 1", "logo": "لوجو_القناة" },
+  { "id": "102", "category_id": "1", "name": "beIN 2", "logo": "لوجو_القناة" },
+  { "id": "201", "category_id": "2", "name": "OSN Movies", "logo": "لوجو_القناة" }
 ]
