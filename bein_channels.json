@@ -1,5 +1,24 @@
 [
-  { "id": "101", "category_id": "1", "name": "beIN 1", "logo": "لوجو_القناة" },
-  { "id": "102", "category_id": "1", "name": "beIN 2", "logo": "لوجو_القناة" },
-  { "id": "201", "category_id": "2", "name": "OSN Movies", "logo": "لوجو_القناة" }
+  {
+    "id": "101",
+    "category_id": "1",
+    "name": "beIN 1",
+    "logo": "https://example.com/logo1.png",
+    "url": "رابط_البث_هنا",
+    "ua": "Mozilla/5.0...",
+    "ref": "https://referer.com",
+    "drm_type": "clearkey",
+    "drm_key": "KID:KEY"
+  },
+  {
+    "id": "102",
+    "category_id": "1",
+    "name": "beIN 2",
+    "logo": "https://example.com/logo2.png",
+    "url": "رابط_بث_عادي_بدون_تشفير",
+    "ua": "Default",
+    "ref": "",
+    "drm_type": "none",
+    "drm_key": ""
+  }
 ]
