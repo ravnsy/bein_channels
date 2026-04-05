@@ -1,24 +1,23 @@
 [
   {
-    "id": "101",
-    "category_id": "1",
-    "name": "beIN 1",
-    "logo": "https://example.com/logo1.png",
-    "url": "رابط_البث_هنا",
-    "ua": "Mozilla/5.0...",
-    "ref": "https://referer.com",
-    "drm_type": "clearkey",
-    "drm_key": "KID:KEY"
+    "category_id": "sports",
+    "channel_id": "101",
+    "name": "beIN Sports 1",
+    "logo": "https://raw.githubusercontent.com/ravnsy/abdo-tv-api/main/logos/bein1.png",
+    "servers": [
+      { "name": "FHD", "url": "https://example.com/live/stream1_fhd.m3u8" },
+      { "name": "HD", "url": "https://example.com/live/stream1_hd.m3u8" },
+      { "name": "SD", "url": "https://example.com/live/stream1_sd.m3u8" }
+    ]
   },
   {
-    "id": "102",
-    "category_id": "1",
-    "name": "beIN 2",
-    "logo": "https://example.com/logo2.png",
-    "url": "رابط_بث_عادي_بدون_تشفير",
-    "ua": "Default",
-    "ref": "",
-    "drm_type": "none",
-    "drm_key": ""
+    "category_id": "sports",
+    "channel_id": "102",
+    "name": "beIN Sports 2",
+    "logo": "https://raw.githubusercontent.com/ravnsy/abdo-tv-api/main/logos/bein2.png",
+    "servers": [
+      { "name": "FHD", "url": "https://example.com/live/stream2_fhd.m3u8" },
+      { "name": "SD", "url": "https://example.com/live/stream2_sd.m3u8" }
+    ]
   }
 ]
