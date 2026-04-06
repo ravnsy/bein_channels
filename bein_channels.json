@@ -3,57 +3,24 @@
     "category_id": "1",
     "channel_id": "101",
     "name": "beIN Sports 1",
-    "logo": "https://raw.githubusercontent.com/ravnsy/abdo-tv-api/main/logos/bein1.png",
-    "servers": [
-      { "name": "FHD", "url": "https://example.com/live/bein1_fhd.m3u8" },
-      { "name": "HD", "url": "https://example.com/live/bein1_hd.m3u8" },
-      { "name": "SD", "url": "https://example.com/live/bein1_sd.m3u8" }
-    ]
+    "logo": "https://raw.githubusercontent.com/ravnsy/abdo-tv-api/main/logos/bein1.png"
   },
   {
     "category_id": "1",
     "channel_id": "102",
     "name": "beIN Sports 2",
-    "logo": "https://raw.githubusercontent.com/ravnsy/abdo-tv-api/main/logos/bein2.png",
-    "servers": [
-      { "name": "FHD", "url": "https://example.com/live/bein2_fhd.m3u8" },
-      { "name": "SD", "url": "https://example.com/live/bein2_sd.m3u8" }
-    ]
+    "logo": "https://raw.githubusercontent.com/ravnsy/abdo-tv-api/main/logos/bein2.png"
   },
   {
     "category_id": "2",
     "channel_id": "201",
     "name": "OSN Movies",
-    "logo": "https://raw.githubusercontent.com/ravnsy/logos/main/osn_movies.png",
-    "servers": [
-      { "name": "HD", "url": "https://example.com/live/osn_movies.m3u8" }
-    ]
-  },
-  {
-    "category_id": "2",
-    "channel_id": "202",
-    "name": "OSN Series",
-    "logo": "https://raw.githubusercontent.com/ravnsy/logos/main/osn_series.png",
-    "servers": [
-      { "name": "HD", "url": "https://example.com/live/osn_series.m3u8" }
-    ]
+    "logo": "https://raw.githubusercontent.com/ravnsy/logos/main/osn_movies.png"
   },
   {
     "category_id": "3",
     "channel_id": "301",
     "name": "Spacetoon",
-    "logo": "https://raw.githubusercontent.com/ravnsy/logos/main/spacetoon.png",
-    "servers": [
-      { "name": "HD", "url": "https://example.com/live/spacetoon.m3u8" }
-    ]
-  },
-  {
-    "category_id": "3",
-    "channel_id": "302",
-    "name": "MBC 3",
-    "logo": "https://raw.githubusercontent.com/ravnsy/logos/main/mbc3.png",
-    "servers": [
-      { "name": "HD", "url": "https://example.com/live/mbc3.m3u8" }
-    ]
+    "logo": "https://raw.githubusercontent.com/ravnsy/logos/main/spacetoon.png"
   }
 ]
